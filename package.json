@@ -1,0 +1,11 @@
+{
+  "name": "stock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add . && git commit -m \"first commit\" && git remote add origin https://github.com/siwoo1123/stock && git push origin master"
+  },
+  "author": "",
+  "license": "ISC"
+}
